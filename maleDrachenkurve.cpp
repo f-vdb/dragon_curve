@@ -40,9 +40,6 @@ uint endX = 0;
 uint endY = 0;
 std::string oldWay = "N";   
 
-
-
-
 void zeichne(const char trend); 
  
 void changeMiddle(string& s) {
